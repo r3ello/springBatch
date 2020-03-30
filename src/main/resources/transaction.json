@@ -1,0 +1,46 @@
+[
+  {
+    "id": 1,
+    "amount": 100.2,
+    "type": "CREDIT",
+    "description": "description1"
+  },
+  {
+    "id": 2,
+    "amount": 542.05,
+    "type": "CREDIT",
+    "description": "description2"
+  },
+  {
+    "id": 3,
+    "amount": 985.35,
+    "type": "CREDIT",
+    "description": "description3"
+  },
+  {
+    "id": 4,
+    "amount":741.52,
+    "type": "DEBIT",
+    "description": "description4"
+  },{
+    "id": 5,
+    "amount":216.57,
+    "type": "CREDIT",
+    "description": "description5"
+  },{
+    "id": 6,
+    "amount": 100.05,
+    "type": "DEBIT",
+    "description": "description6"
+  },{
+    "id":7, 
+    "amount": 58.25,
+    "type": "DEBIT",
+    "description": "description7"
+  },{
+    "id": 8,
+    "amount": 999.9,
+    "type": "CREDIT",
+    "description": "description8"
+  }
+]
